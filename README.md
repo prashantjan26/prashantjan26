@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data structures and algorithms
 - 🌱 I’m currently learning Backend Development (Node.js)
 - 💞️ I’m looking to collaborate on Backend development projects
-- 📫 Reach me on LinkedIn @: https://www.linkedin.com/in/prashantjan26/
+- 📫 Reach me at LinkedIn : https://www.linkedin.com/in/prashantjan26/
 - 📫 Mail me on: prashantsinghofficial07@gmail.com
 
 <!---
